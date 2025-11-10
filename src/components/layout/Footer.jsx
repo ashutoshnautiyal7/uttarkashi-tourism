@@ -27,7 +27,7 @@ const Footer = () => {
   <div className="text-gray-200 text-sm md:text-base">
     <p className="font-semibold">Address</p>
     <p className="mb-3">
-      Lane No 3, Friends Enclave, Near Siddhartha Law College, IT Park, Sahastradhara Rd, Dehradun, Uttarakhand 248013
+    PMGSY colony joshiyara uttarkashi 249193
     </p>
     <p className="mb-3">
       Daily Business Hours:{" "}

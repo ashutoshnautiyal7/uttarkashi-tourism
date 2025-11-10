@@ -11,7 +11,7 @@ const Hero = () => {
       title: "Explore the Himalayas",
       subtitle: "Most Reliable Trekking Community in India",
       description:
-        "Catering 10,000+ Trekkers Every Year!\nCall our Trek Experts on 8979920602, 8006074398",
+        "Catering 10,000+ Trekkers Every Year!\nCall our Trek Experts on 916396476118",
       buttonText: "Read More",
     },
     {
@@ -24,8 +24,8 @@ const Hero = () => {
     {
       image: "/tss-banner.webp",
       title: "Spiritual Tours",
-      subtitle: "Uttarakhand Char Dham Yatra",
-      description: "Experience the divine journey through sacred destinations",
+      subtitle: "Uttarakashi Winter Treks Packages.",
+      description: "Experience the beauty of the Himalayas with our winter treks packages.",
       buttonText: "Read More",
     },
   ];

@@ -5,6 +5,7 @@ import Weakend from "./Weakend";
 import Why from "./Why";
 import Certificate from "./Certificate";
 import Motivation from "./Motivation";
+import Reviews from "./Reviews";
 
 const HomePage = () => {
   return (
@@ -14,6 +15,7 @@ const HomePage = () => {
       {/* <Weakend /> */}
       <Why />
       <Certificate />
+      <Reviews />
       {/* <Motivation /> */}
     </main>
   );
